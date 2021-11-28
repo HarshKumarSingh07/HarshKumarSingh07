@@ -1,5 +1,5 @@
 - 👋 Hey everyone, this is @HarshKumarSingh07
-- I am a machine learning enthusiast currently a second year CS student at VIT, Vellore
+- I am a machine learning enthusiast currently a second year Computer Science student at VIT, Vellore
 - I’m currently working on my skills 
 - I’m looking to collaborate for academic research purposes.
 - You can reach me through my email id --> rajpoothks07@gmail.com
